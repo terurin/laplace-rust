@@ -8,3 +8,4 @@ edition = "2018"
 
 [dependencies]
 rayon = "1.2.0"
+threadpool = "1.7.1"
